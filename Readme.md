@@ -63,7 +63,7 @@ Each group must select one unique project. Group projects will be different.
         <b>d)</b> TODO: Other features will be added. <br>
         <b>e)</b> Show that your application runs as expected.
       </td>
-      <td>27 May 2025<br></td>
+      <td>20 May 2025<br></td>
       <td><a href="pro4.pdf">Project4</a></td>
     </tr>
   </body>
