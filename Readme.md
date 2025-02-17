@@ -1,7 +1,7 @@
 # SWE 212 DISTRIBUTED INFORMATION AND MANAGEMENT
 
 Please click the link below to see the projects: <br>
-[SWE212 Project Descriptions](SWE212_ProjectDescriptions_2024.pdf) <br>
+[SWE212 Project Descriptions](SWE212_ProjectDescriptions_2025.pdf) <br>
 Each group must select one unique project. Group projects will be different. 
 
 ## Projects:
@@ -24,7 +24,7 @@ Each group must select one unique project. Group projects will be different.
         <b>c)</b> Implement required buttons on the GUIs and action methods for CRUD operations using JavaFX. <br> 
         <b>d)</b> Show that the DB tables can be accessed and manipulated using the GUIs and the JavaFX app runs on as expected. 
       </td>
-      <td>5 March 2024</td>
+      <td>4 March 2025</td>
       <td><a href="pro1.pdf">Project1</a></td>
     </tr>
     <tr>
@@ -37,12 +37,12 @@ Each group must select one unique project. Group projects will be different.
         <b>d)</b> Use Thymeleaf template engine for sending objects to your views.<br>
         <b>e)</b> Show that your application runs as required.
       </td>
-      <td>16 April 2024 <br>(After the holiday)</td>
+      <td>8 April 2025 <br></td>
       <td><a href="pro2.pdf">Project2</a></td>
     </tr>
     <tr>
       <td>3</td>
-      <td><b>JWT security with file upload.</b></td>
+      <td><b>Basic security with file upload.</b></td>
       <td>
         <b>a)</b> You will use Project 2 study as base for this project. However, the build tool will be Gradle in this time.<br>
         <b>b)</b> Create at least two roles: ADMIN and USER. <br>
@@ -50,8 +50,21 @@ Each group must select one unique project. Group projects will be different.
         <b>d)</b> Show that the user image file uploading and displaying them on related web pages work. <br>
         <b>e)</b> Show that your application runs as expected.
       </td>
-      <td>21 May 2024<br>(Last week)</td>
+      <td>29 April 2025<br></td>
       <td><a href="pro3.pdf">Project3</a></td>
+    </tr>
+     <tr>
+      <td>4</td>
+      <td><b>Micro service architecture with React Front-End</b></td>
+      <td>
+        <b>a)</b> You will re-design your problem based on micro service architecture.<br>
+        <b>b)</b> Create at least two roles: ADMIN and USER. <br>
+        <b>c)</b> ADMIN is able to do all CRUD operations over the tables. USER will have limitted access. Create a logic based on your project topic and justify yourself. <br>
+        <b>d)</b> TODO: Other features will be added. <br>
+        <b>e)</b> Show that your application runs as expected.
+      </td>
+      <td>27 May 2025<br></td>
+      <td><a href="pro4.pdf">Project4</a></td>
     </tr>
   </body>
 </table>
