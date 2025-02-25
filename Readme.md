@@ -21,7 +21,7 @@ Each group must select one unique project. Group projects will be different.
       <td> 
         <b>a)</b> Show that you can create database and tables using either MySQL or PostgreSQL. <br> 
         <b>b)</b> Show that you can create GUIs related with at least two tables in the DB.  <br> 
-        <b>c)</b> Implement required buttons on the GUIs and action methods for CRUD operations using JavaFX. <br> 
+        <b>c)</b> Implement required buttons on the GUIs and action methods for CRUD operations using JDBC library. <br> 
         <b>d)</b> Show that the DB tables can be accessed and manipulated using the GUIs and the JavaFX app runs on as expected. 
       </td>
       <td>4 March 2025</td>
