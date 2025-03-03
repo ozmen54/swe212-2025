@@ -58,9 +58,9 @@ Each group must select one unique project. Group projects will be different.
       <td><b>Micro service architecture with React Front-End</b></td>
       <td>
         <b>a)</b> You will re-design your problem based on micro service architecture.<br>
-        <b>b)</b> TODO: Explained later. <br>
-        <b>c)</b> TODO: Explained later. <br>
-        <b>d)</b> TODO: Other features will be added. <br>
+        <b>b)</b> Make database servers up. <br>
+        <b>c)</b> Show that back-end services are working ok (use Postman). <br>
+        <b>d)</b> Show that front-end (views) is working as expected <br>
         <b>e)</b> Show that your application runs as expected.
       </td>
       <td>20 May 2025<br></td>
