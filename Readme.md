@@ -44,7 +44,7 @@ Each group must select one unique project. Group projects will be different.
       <td>3</td>
       <td><b>Basic security with file upload.</b></td>
       <td>
-        <b>a)</b> You will use Project 2 study as base for this project. However, the build tool will be Gradle in this time.<br>
+        <b>a)</b> You will use Project 2 study as base for this project. However, the build tool will be Gradle and Java 21 JDK in this time.<br>
         <b>b)</b> Create at least two roles: ADMIN and USER. <br>
         <b>c)</b> ADMIN is able to do all CRUD operations over the tables. USER will have limitted access. Create a logic based on your project topic and justify yourself. <br>
         <b>d)</b> Show that the user image file uploading and displaying them on related web pages work. <br>
