@@ -58,8 +58,8 @@ Each group must select one unique project. Group projects will be different.
       <td><b>Micro service architecture with React Front-End</b></td>
       <td>
         <b>a)</b> You will re-design your problem based on micro service architecture.<br>
-        <b>b)</b> Create at least two roles: ADMIN and USER. <br>
-        <b>c)</b> ADMIN is able to do all CRUD operations over the tables. USER will have limitted access. Create a logic based on your project topic and justify yourself. <br>
+        <b>b)</b> TODO: Explained later. <br>
+        <b>c)</b> TODO: Explained later. <br>
         <b>d)</b> TODO: Other features will be added. <br>
         <b>e)</b> Show that your application runs as expected.
       </td>
