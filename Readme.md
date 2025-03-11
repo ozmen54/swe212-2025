@@ -37,7 +37,7 @@ Each group must select one unique project. Group projects will be different.
         <b>d)</b> Use Thymeleaf template engine for sending objects to your views.<br>
         <b>e)</b> Show that your application runs as required.
       </td>
-      <td>1 April 2025 <br></td>
+      <td>25 March 2025 <br></td>
       <td><a href="pro2.pdf">Project2</a></td>
     </tr>
     <tr>
