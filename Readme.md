@@ -55,12 +55,12 @@ Each group must select one unique project. Group projects will be different.
     </tr>
      <tr>
       <td>4</td>
-      <td><b>Micro service architecture with React Front-End</b></td>
+      <td><b>Four-tier architecture with React Front-End</b></td>
       <td>
-        <b>a)</b> You will re-design your problem based on micro service architecture.<br>
-        <b>b)</b> Download the <a href="pro4_db_script.zip">pro4_db_script.zip</a> file and make database servers up. <br>
-        <b>c)</b> Show that back-end services are working ok (use Postman). <br>
-        <b>d)</b> Show that front-end (views) is working as expected <br>
+        <b>a)</b> You will re-design your problem based on four-tier architecture.<br>
+        <b>b)</b> Show that backend services are working ok (use Postman). <br>
+        <b>c)</b> Show that frontend (views) is working as expected (use Browser). <br>
+        <b>d)</b> Show that your application can create pdf reports. <br>
         <b>e)</b> Show that your application runs as expected.
       </td>
       <td>20 May 2025<br></td>
