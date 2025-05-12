@@ -59,7 +59,7 @@ Each group must select one unique project. Group projects will be different.
       <td>
         <b>a)</b> You will re-design your problem based on four-tier architecture.<br>
         <b>b)</b> Show that backend services are working ok (use Postman). <br>
-        <b>c)</b> Show that frontend (views) is working as expected (use Browser). <br>
+        <b>c)</b> Show that frontend (React generated views) are working as expected (use Browser). <br>
         <b>d)</b> Show that your application can create pdf reports. <br>
         <b>e)</b> Show that your application runs as expected.
       </td>
