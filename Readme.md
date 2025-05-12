@@ -29,7 +29,7 @@ Each group must select one unique project. Group projects will be different.
     </tr>
     <tr>
       <td>2</td>
-      <td><b>Code-first web application: Rest-API backend development.</b></td>
+      <td><b>Code-first web application: Rest-API backend development for CRUD operations.</b></td>
       <td>
         <b>a)</b> Build the app using Java 17, Spring Boot freamework and Maven build tool.<br> 
         <b>b)</b> Use Hibernate (JPA) to associate your views with DB tables. Create entity classes properly in your model section using Lombok.<br>
@@ -55,7 +55,7 @@ Each group must select one unique project. Group projects will be different.
     </tr>
      <tr>
       <td>4</td>
-      <td><b>Four-tier architecture with React frontend and pdf generation with Jasper Report</b></td>
+      <td><b>Four-tier architecture with React frontend and pdf generation with Jasper Report.</b></td>
       <td>
         <b>a)</b> You will re-design your problem based on four-tier architecture.<br>
         <b>b)</b> Show that backend services are working ok (use Postman). <br>
