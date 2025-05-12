@@ -42,7 +42,7 @@ Each group must select one unique project. Group projects will be different.
     </tr>
     <tr>
       <td>3</td>
-      <td><b>Basic security with file upload.</b></td>
+      <td><b>Server side rendering: Authentication and file upload.</b></td>
       <td>
         <b>a)</b> You will use Project 2 study as base for this project; however, server side rendering is required. The build tool can be Maven or Gradle and Java 21 JDK in this time.<br>
         <b>b)</b> Create at least two roles: ADMIN and USER. <br>
@@ -55,7 +55,7 @@ Each group must select one unique project. Group projects will be different.
     </tr>
      <tr>
       <td>4</td>
-      <td><b>Four-tier architecture with React frontend</b></td>
+      <td><b>Four-tier architecture with React frontend and pdf generation with Jasper Report</b></td>
       <td>
         <b>a)</b> You will re-design your problem based on four-tier architecture.<br>
         <b>b)</b> Show that backend services are working ok (use Postman). <br>
