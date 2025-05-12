@@ -55,7 +55,7 @@ Each group must select one unique project. Group projects will be different.
     </tr>
      <tr>
       <td>4</td>
-      <td><b>Four-tier architecture with React Front-End</b></td>
+      <td><b>Four-tier architecture with React frontend</b></td>
       <td>
         <b>a)</b> You will re-design your problem based on four-tier architecture.<br>
         <b>b)</b> Show that backend services are working ok (use Postman). <br>
