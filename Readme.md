@@ -34,7 +34,7 @@ Each group must select one unique project. Group projects will be different.
         <b>a)</b> Build the app using Java 17, Spring Boot freamework and Maven build tool.<br> 
         <b>b)</b> Use Hibernate (JPA) to associate your views with DB tables. Create entity classes properly in your model section using Lombok.<br>
         <b>c)</b> Use MySQL or PostgreSQL as database server.<br>
-        <b>d)</b> Use Thymeleaf template engine for sending objects to your views.<br>
+        <b>d)</b> Use Postman for testing your controller endpoints.<br>
         <b>e)</b> Show that your application runs as required.
       </td>
       <td>25 March 2025 <br></td>
